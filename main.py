@@ -1,4 +1,4 @@
-const a = "a"
+# const a = "a"
 print("Hello World!")
 if True:
     print("True")
